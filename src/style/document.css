@@ -1,0 +1,25 @@
+body {
+    margin-top: -20px;
+
+}
+
+h2 {
+    font-family: 'Inter', 'Inter Var', sans-serif;
+    font-weight: 600;
+    color: #4B5563;
+}
+
+/* //document no available */
+.dp {
+
+    font-family: 'Inter', 'Inter Var', sans-serif;
+    font-size: 16px;
+    color: #4b5563;
+
+}
+
+/* //submitted name */
+.sp {
+    font-family: 'Inter', 'Inter Var', sans-serif;
+    font-size: 16px;
+}

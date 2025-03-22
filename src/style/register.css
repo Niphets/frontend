@@ -1,0 +1,26 @@
+.register-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #f4f6f9;
+}
+
+.register-card {
+  width: 24rem;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  background-color: white;
+}
+
+.submit-btn {
+  width: 100%;
+  border-radius: 8px;
+  transition: opacity 0.3s, transform 0.2s;
+}
+
+.submit-btn:hover {
+  opacity: 0.9;
+  transform: scale(1.02);
+}
